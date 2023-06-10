@@ -1,0 +1,55 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "16526004996c851f63": {
+      "type": "faq",
+      "blocks": {
+        "16526004995f2ea159-0": {
+          "type": "question",
+          "settings": {
+            "title": "注文してからどのくらいで届きますか？",
+            "text": "<p>ご注文から通常、約10~20日ほどでお届け致します。<\/p>"
+          }
+        },
+        "16526004995f2ea159-1": {
+          "type": "question",
+          "settings": {
+            "title": "返品・交換はどうすれば良いですか？",
+            "text": "<p>不良箇所がある場合は、<a href=\"https:\/\/lin.ee\/u7Vo6qf\" title=\"https:\/\/lin.ee\/u7Vo6qf\">お問い合わせ<\/a>からお願い致します。<\/p><p>サイズ・色の変更は返品・交換の対象外となりますので、ご注意ください。<\/p>"
+          }
+        },
+        "2e7318ce-3b7a-4c5c-80ef-48a47e9c6c12": {
+          "type": "question",
+          "settings": {
+            "title": "注文完了メールが届きません。",
+            "text": "<p>まずは迷惑メールフォルダをご確認ください。<\/p><p>もし無い場合は、「info@nanostudio-official.com」のドメイン設定を行なった上で<a href=\"https:\/\/lin.ee\/u7Vo6qf\" title=\"https:\/\/lin.ee\/u7Vo6qf\">お問い合わせ<\/a>へ使用した①メールアドレス②氏名 を添付しご連絡下さい。<\/p>"
+          }
+        },
+        "789fcb1e-2da6-42ea-81c0-5f9e2e0662f5": {
+          "type": "question",
+          "settings": {
+            "title": "サイズやカラー・住所を間違えてしまった",
+            "text": "<p><strong>【サイズ・カラー】<\/strong><\/p><p>ご注文後、1営業日以内でしたら変更可能です。<\/p><p><strong>【住所】<\/strong><\/p><p>ご注文後、2営業日以内でしたら変更可能です。<\/p><p>以上の期間を過ぎてしまった場合は、一切変更は出来ません。<\/p><p>▶︎①お名前 ②ご注文番号(#4桁）を記入の上、<a href=\"https:\/\/lin.ee\/u7Vo6qf\" title=\"https:\/\/lin.ee\/u7Vo6qf\">お問い合わせ<\/a>下さい。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16526004995f2ea159-0",
+        "16526004995f2ea159-1",
+        "2e7318ce-3b7a-4c5c-80ef-48a47e9c6c12",
+        "789fcb1e-2da6-42ea-81c0-5f9e2e0662f5"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16526004996c851f63"
+  ]
+}

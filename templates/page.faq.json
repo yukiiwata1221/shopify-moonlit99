@@ -1,0 +1,210 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "faq-0": {
+          "type": "rich-text",
+          "settings": {
+            "title": "よくある質問",
+            "text": "",
+            "align_text": "center"
+          }
+        },
+        "9fc0ea2c-e36f-4f41-aeab-17bf34994e14": {
+          "type": "rich-text",
+          "settings": {
+            "title": "ご注文について",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "252418b7-e9ef-404d-ac3f-90914427ae12": {
+          "type": "question",
+          "settings": {
+            "title": "サイズやカラーを間違えた",
+            "text": "<p>ご注文後、2営業日以内でしたら変更可能です。<br\/><br\/>以上の期間を過ぎてしまった場合は、一切変更は出来ません。<br\/><br\/><a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にて<\/p><p>・注文番号<\/p><p>・変更したい商品名<\/p><p>・変更したいサイズ及びカラー<\/p><p>をお伝え下さい。<\/p>"
+          }
+        },
+        "4e6054c7-d8da-4589-a6ae-5546ac6b51f8": {
+          "type": "question",
+          "settings": {
+            "title": "注文完了メールが届かない",
+            "text": "<p>注文完了メールが届かない方は、迷惑メールフォルダをご確認ください。 <br\/>もし迷惑メールフォルダに無い場合は「chamule.official@gmail.com」のドメイン設定を行なった上、<a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にてご連絡下さい。<\/p>"
+          }
+        },
+        "bb19fd00-f1d9-4703-af58-34445aa676e0": {
+          "type": "rich-text",
+          "settings": {
+            "title": "配送について",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "配送料金を知りたい",
+            "text": "<p>日本全国一律「¥500」です。 <br\/>¥15,000以上のご購入で送料無料になります。<\/p>"
+          }
+        },
+        "faq-4": {
+          "type": "question",
+          "settings": {
+            "title": "住所の変更をしたい",
+            "text": "<p>ご注文後、2営業日以内でしたら変更可能です。 <br\/> <br\/>以上の期間を過ぎてしまった場合は、一切変更は出来ません。 <br\/> <br\/><a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にてお問い合わせ下さい。<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "配送日時を知りたい",
+            "text": "<p>通常商品はご注文後、約10〜16営業日でお届けいたします。 <br\/> <br\/>ご注文から約1週間で発送致します。 <br\/>商品が発送されましたら、メールにてお知らせいたします。 <br\/> <br\/>※ご注文の混雑により少々配送時間が前後する場合がございます。 <br\/> <br\/>※商品ごとに出荷時間が異なります。通常よりも遅く早くなる場合がございますのでご了承ください。 <br\/><\/p>"
+          }
+        },
+        "08891f23-63ca-4bc9-9fcc-40917bc164cc": {
+          "type": "question",
+          "settings": {
+            "title": "追跡番号が反映されていない",
+            "text": "<p>追跡伝票番号は発送完了メールに記載しております。 <br\/>反映に約3-5日ほど要しますので、ご注意下さい。 <br\/>追跡は下記サイトにて確認可能です。（ハイフン無し） <\/p><p>▼佐川急便▼<br\/><a href=\"https:\/\/tracking.sagawa-sgx.com\/sgx\/trackeng.asp\" title=\"https:\/\/tracking.sagawa-sgx.com\/sgx\/trackeng.asp\">https:\/\/tracking.sagawa-sgx.com\/sgx\/trackeng.asp<\/a><\/p><p>▼ヤマト運輸▼<\/p><p><a href=\"https:\/\/toi.kuronekoyamato.co.jp\/cgi-bin\/tneko\" title=\"https:\/\/toi.kuronekoyamato.co.jp\/cgi-bin\/tneko\">https:\/\/toi.kuronekoyamato.co.jp\/cgi-bin\/tneko<\/a><\/p>"
+          }
+        },
+        "5e92822b-33df-466c-861b-446043a97808": {
+          "type": "question",
+          "settings": {
+            "title": "長期不在・住所不備に関して",
+            "text": "<p>お客様がご不在の場合は、ヤマト運輸より不在通知でご連絡いたします。 <br\/> <br\/>不在通知より、お客様自身で再配達依頼をお願いします。 <br\/> <br\/>なお、発送日から7日以上経過した商品は、自動的に海外倉庫へ返送となりキャンセルの処理をいたします。 <br\/>その際の返金は行われませんので予めご了承下さい。 <br\/> <br\/>※配送先住所に誤りがある場合は、住所不明のため、返送となります。 <br\/>番地の記入漏れが多く見受けられますのでご購入時にご確認をお願いいたします。 <br\/> <br\/>※再発送の場合は着払いとなります。 <br\/> <br\/>原則、受取拒否・長期不在によりキャンセルや返金はできませんが、悪質な理由によりお受け取りいただけなかった場合は、海外からの送料等を含めた費用 2,000円（税込）を引いた額の返金となります。 <br\/> <br\/>予めご了承ください。 <br\/> <br\/> <br\/>お客様のご都合(長期不在・住所不備）によるキャンセルが続く場合、お支払い方法を制限する措置をとらせていただきます。 <br\/> <br\/>ご注文された商品は、期間内にお受取りいただきますようお願いいたします。<\/p>"
+          }
+        },
+        "faq-3": {
+          "type": "rich-text",
+          "settings": {
+            "title": "お支払いについて",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "67f23be0-4ae3-4018-ba48-a57de91b2f3b": {
+          "type": "question",
+          "settings": {
+            "title": "支払い方法の種類を知りたい",
+            "text": "<p>・Visa \/ Mastercard \/AMERICAN EXPRESS \/JCB<\/p><p>・あと払い (ペイディ) ※コンビニ\/銀行支払い<\/p><p>・PAYPAY<\/p><p>・LINEPAY<\/p><p>・PAYPAL<\/p><p>※決済方法によっては商品の到着よりも、先にお支払いをして頂く場合がございます。商品の到着時間と決済方法の期限を考慮した上でご購入ください。こちらでは決済期限の延長等の調節は出来かねます。<\/p>"
+          }
+        },
+        "b07d468e-b2a3-4ea3-9960-f7c845052feb": {
+          "type": "question",
+          "settings": {
+            "title": "領収書を発行したい",
+            "text": "<p>領収書の発行は承っておりません。 <br\/> <br\/>ネットショップでのご購入の際に領収書を発行することは「二重発行」となり、「有印私文書偽造罪」の罪に購入者と販売者両者が問われる可能性がございます。 <br\/> <br\/>そのため、各決済方法によって発行される明細を領収書の代わりとして下さい。 <br\/> <br\/>・クレジットカード&gt;&gt; 利用明細書 <br\/>・コンビニ&gt;&gt; 店頭で受け取るレシート <br\/>・銀行振り込み&gt;&gt; 振り込み明細書 <br\/>・キャリア決済&gt;&gt; 携帯会社からの明細 <br\/> <br\/>引用：<a href=\"https:\/\/baseu.jp\/17066#to-3\" title=\"https:\/\/baseu.jp\/17066#to-3\">https:\/\/baseu.jp\/17066#to-3<\/a> (二重発行に気をつけよう！ネットショップにおける領収書の発行ルールについて) <br\/> <br\/>上記、ご理解の上、ご購入をお願いいたします。<\/p>"
+          }
+        },
+        "42a2bcee-8b18-49ff-8017-4165f2edbb25": {
+          "type": "rich-text",
+          "settings": {
+            "title": "返品\/交換\/キャンセルについて",
+            "text": "",
+            "align_text": "left"
+          }
+        },
+        "7c993a7e-5527-460b-9cae-2c6cbc9bcbf7": {
+          "type": "question",
+          "settings": {
+            "title": "注文のキャンセルをしたい",
+            "text": "<p>恐れ入りますがご注文完了後のキャンセルにはお応え出来ません。 <br\/>サイズ・カラー・住所の変更は<a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にてお問い合わせ下さい。<\/p>"
+          }
+        },
+        "a8ac261e-b51f-49c0-a8e6-cf020bc74862": {
+          "type": "question",
+          "settings": {
+            "title": "返品・交換対象の条件を知りたい",
+            "text": "<p>【対象外の条件】 <br\/>・お客様のご都合による返品・交換（カラー・サイズなど） <br\/>・商品の着用感 <br\/>・画像と実際のイメージが異なる。 <br\/>・タグの付いてない商品（タグが切り離された状態を使用済とみなします。） <br\/>・商品ラベルを捨ててしまうなど確認が出来ない商品 <br\/>・到着から6日以上経過した商品 <br\/>・使用済み、あるいはお直しや洗濯、クリーニングされた商品 <br\/>・お客様のもとでニオイが付着したり、汚れ、キズが生じた商品 <br\/>※記載サイズは基本的に平置き採寸であり、多少の誤差が生じる場合がございます。 <br\/>※海外製品は日本製品と比べて製品基準が甘く、縫製・作りが雑な場合があります。 <br\/>※ご覧になっているモニターやディスプレイ環境により、実際の商品と色味、質感などが異なって見える場合がございます。  <br\/> <br\/>【対象内の条件】 <br\/>・サイト記載サイズと実寸が異なる。(1-3cm以内は対象外) <br\/>・商品に切り傷や穴がある。 <br\/>・届いた商品のカラー・サイズが実際の注文と違う。 <br\/>・ボタンが不足している。 <br\/>・その他理由<\/p><p>対象内の場合は、<a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にてお問い合わせ下さい。<\/p>"
+          }
+        },
+        "734f6851-0277-4f62-8dc1-dbd2beb2cc85": {
+          "type": "question",
+          "settings": {
+            "title": "商品に不良箇所があった",
+            "text": "<p>「返品保証サポート」にて対応させて頂きます。 <br\/><a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にてご用件を添えてご連絡お願いします。<br\/> <br\/>①お名前 <br\/>②注文番号＃（注文完了メールに記載） <br\/>③商品名 <br\/>④梱包の袋に貼ってあるバーコード記載の商品ラベル <br\/>⑤ご用件内容 <br\/> <br\/>「不良箇所と思われる画像」と「タグが付いている状態の商品画像」は①~⑤を送信後にトーク画面から送信してください。 <br\/> <br\/>※商品ラベルが無い場合は返金対応は致しかねます。 <br\/>（過去に別店舗の商品を不良品として問い合わせをした例がございますので、防止策としてご協力をお願い致します。） <br\/>※土日祝日は対応をお休みしております。 <br\/>※２営業日以内にご返信いたします。 <br\/>※初期不良及び損傷による返品送料は弊社が負担させていただきます。<\/p>"
+          }
+        },
+        "1e7ffb03-c343-4623-8757-116950f7fb8b": {
+          "type": "question",
+          "settings": {
+            "title": "返金方法を知りたい",
+            "text": "<p>在庫切れや商品不良により、こちらから商品代金をご返金する場合がございます。 <br\/>ご返金の際は以下の2つのメールをお送りいたします。 <br\/> <br\/>・【キャンセル通知メール 】 <br\/>「件名：注文番号 #~~ がキャンセルされました」 <br\/> <br\/>・【返金通知メール】「件名：返金通知」 <br\/> <br\/>返金方法につきましては、今回ご利用頂いた決済方法の請求金額から差し引く対応となります。 <br\/>後ほどご請求金額のご確認をお願い致します。 <br\/> <br\/>反映に最大３週間程度頂戴致しますので、ご理解頂きますようよろしくお願い致します。 <br\/>※デビットカードをご利用の方はご利用のカード会社へご連絡下さい。 <br\/>※引き落としの結果は、ご利用の決済方法のご請求日に改めてご確認下さい。 <br\/> <br\/>ペイディでコンビニ現金支払いをされた方は、下記お問い合わせフォームへご連絡をお願い致します。 <br\/><a href=\"https:\/\/cs.paidy.com\/contact-us\" title=\"https:\/\/cs.paidy.com\/contact-us\">https:\/\/cs.paidy.com\/contact-us<\/a><\/p>"
+          }
+        },
+        "31e881c7-e17e-49e6-a131-04ac33081cdb": {
+          "type": "rich-text",
+          "settings": {
+            "title": "上記のQ&Aで解決しない場合",
+            "text": "<p><a href=\"https:\/\/lin.ee\/fZLIZZG\" title=\"https:\/\/lin.ee\/fZLIZZG\">公式LINEのチャット<\/a>にてご用件を添えてお問い合わせ下さい。<\/p>",
+            "align_text": "left"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "9fc0ea2c-e36f-4f41-aeab-17bf34994e14",
+        "252418b7-e9ef-404d-ac3f-90914427ae12",
+        "4e6054c7-d8da-4589-a6ae-5546ac6b51f8",
+        "bb19fd00-f1d9-4703-af58-34445aa676e0",
+        "faq-1",
+        "faq-4",
+        "faq-2",
+        "08891f23-63ca-4bc9-9fcc-40917bc164cc",
+        "5e92822b-33df-466c-861b-446043a97808",
+        "faq-3",
+        "67f23be0-4ae3-4018-ba48-a57de91b2f3b",
+        "b07d468e-b2a3-4ea3-9960-f7c845052feb",
+        "42a2bcee-8b18-49ff-8017-4165f2edbb25",
+        "7c993a7e-5527-460b-9cae-2c6cbc9bcbf7",
+        "a8ac261e-b51f-49c0-a8e6-cf020bc74862",
+        "734f6851-0277-4f62-8dc1-dbd2beb2cc85",
+        "1e7ffb03-c343-4623-8757-116950f7fb8b",
+        "31e881c7-e17e-49e6-a131-04ac33081cdb"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "16553550974cbdf983": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "16553550979b0ad80b-0": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "16553550979b0ad80b-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16553550979b0ad80b-0",
+        "16553550979b0ad80b-1"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq",
+    "16553550974cbdf983"
+  ]
+}

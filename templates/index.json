@@ -1,0 +1,393 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "c2cf4efc-419a-4f48-b7c0-e05bdc69efe5": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "一押しアイテムをスタッフが厳選！",
+            "title": "recommended",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/スタッフおすすめ",
+            "link_text": "アイテムはこちら",
+            "link_2": "shopify:\/\/collections\/スタッフおすすめ",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/7.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "24ed58cb-294f-42dd-b76c-a639f9b7b3ad": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "e5a15680-0920-44ae-b5fa-8d7f4713100a": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "Thynk Unlimited",
+            "title": "2022 A\/W\nWINTER COLLECTION",
+            "title_size": 56,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/autumn-collection",
+            "link_text": "アイテムはこちら",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "韓国レディースゴルフウェア",
+            "title": "chamule",
+            "title_size": 86,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/new-item-新商品",
+            "link_text": "新作アイテムはこちら",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        }
+      },
+      "block_order": [
+        "c2cf4efc-419a-4f48-b7c0-e05bdc69efe5",
+        "24ed58cb-294f-42dd-b76c-a639f9b7b3ad",
+        "e5a15680-0920-44ae-b5fa-8d7f4713100a",
+        "slideshow-1"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "1648471921d1ee2d3a": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "6662337a-695f-41cd-b34a-f5a3fcf0febe": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-0": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/pages\/一部アイテムの発送遅延のご案内-1月11日-1月29日",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-1": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-0",
+        "template--16711993655607__6662337a-695f-41cd-b34a-f5a3fcf0febe-1673421331d2b7766c-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16481865815fb2d6f1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "RANKING｜ランキング",
+        "home_featured_products": "ranking",
+        "per_row": 3,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "823858a8-ebea-47a3-8629-7b096a368867": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16711993655607__823858a8-ebea-47a3-8629-7b096a368867-1670122259ca0ed27f-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "https:\/\/lin.ee\/fZLIZZG",
+            "link_text": "",
+            "link_2": "https:\/\/lin.ee\/fZLIZZG",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16711993655607__823858a8-ebea-47a3-8629-7b096a368867-1670122259ca0ed27f-1"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1abb7ab9-8d5a-4f97-8662-44296b8caf20": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16711993655607__1abb7ab9-8d5a-4f97-8662-44296b8caf20-1670123362009a2990-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/28.png",
+            "link": "https:\/\/lin.ee\/fJJh7Pe",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16711993655607__1abb7ab9-8d5a-4f97-8662-44296b8caf20-1670123362009a2990-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1633872735d95b4d0c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW ITEM｜新着アイテム",
+        "home_featured_products": "new-item",
+        "per_row": 5,
+        "rows": 5,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "feaae97e-97db-42e2-969f-fb12c23bb6e1": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "",
+            "text": "<p><\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/ピックアップアイテム"
+          }
+        },
+        "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "",
+            "text": "<p><\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/プチプラ-コレクション"
+          }
+        }
+      },
+      "block_order": [
+        "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-0",
+        "template--16711993655607__feaae97e-97db-42e2-969f-fb12c23bb6e1-16669624098f8c9ff0-1"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "74be5dac-86c0-4c50-848a-779f6fbe6339": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-0",
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-1",
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-2",
+        "template--16711993655607__74be5dac-86c0-4c50-848a-779f6fbe6339-16669524047d6abb89-3"
+      ],
+      "settings": {
+        "featured_product": "design-loose-outerwear-shirt-mo0321",
+        "divider": true,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "fede1f05-13a0-4472-a26f-1c27a729617f": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-0": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save"
+          }
+        },
+        "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p>"
+          }
+        },
+        "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-2": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-0",
+        "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-1",
+        "template--16711993655607__fede1f05-13a0-4472-a26f-1c27a729617f-1666960309981b9fcf-2"
+      ],
+      "settings": {
+        "color_background": "#f9f9f9",
+        "color_text": "#1d1c1c"
+      }
+    },
+    "16526001463a94aed5": {
+      "type": "faq",
+      "blocks": {
+        "1652600146ab9f7e1f-0": {
+          "type": "question",
+          "settings": {
+            "title": "注文してからどのくらいで届きますか？",
+            "text": "<p>ご注文から通常、約10~20日ほどでお届け致します。<\/p>"
+          }
+        },
+        "1652600146ab9f7e1f-1": {
+          "type": "question",
+          "settings": {
+            "title": "返品・交換はどうすれば良いですか？",
+            "text": "<p>不良箇所がある場合は、<a href=\"https:\/\/lin.ee\/fJJh7Pe\" title=\"https:\/\/lin.ee\/fJJh7Pe\">お問い合わせ<\/a>からお願い致します。<\/p><p>サイズ・色の変更は返品・交換の対象外となりますので、ご注意ください。<\/p>"
+          }
+        },
+        "ada265c5-40f9-4d60-8570-e32ea965a790": {
+          "type": "question",
+          "settings": {
+            "title": "注文完了メールが届きません。",
+            "text": "<p>まずは迷惑メールフォルダをご確認ください。<\/p><p>もし無い場合は、「info@chamule.com」のドメイン設定を行なった上で<a href=\"https:\/\/lin.ee\/fJJh7Pe\" title=\"https:\/\/lin.ee\/fJJh7Pe\">お問い合わせ<\/a>へ使用した①メールアドレス②氏名 を添付しご連絡下さい。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652600146ab9f7e1f-0",
+        "1652600146ab9f7e1f-1",
+        "ada265c5-40f9-4d60-8570-e32ea965a790"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "16746218550b38df9f": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1648471921d1ee2d3a",
+    "6662337a-695f-41cd-b34a-f5a3fcf0febe",
+    "16481865815fb2d6f1",
+    "823858a8-ebea-47a3-8629-7b096a368867",
+    "1abb7ab9-8d5a-4f97-8662-44296b8caf20",
+    "1633872735d95b4d0c",
+    "feaae97e-97db-42e2-969f-fb12c23bb6e1",
+    "74be5dac-86c0-4c50-848a-779f6fbe6339",
+    "fede1f05-13a0-4472-a26f-1c27a729617f",
+    "16526001463a94aed5",
+    "16746218550b38df9f"
+  ]
+}

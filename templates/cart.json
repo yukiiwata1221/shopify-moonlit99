@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "1669440098ac785b1e": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "main": {
+      "type": "main-cart",
+      "settings": {
+      }
+    },
+    "165629628346055051": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "7,000円以下のアイテム",
+        "home_featured_products": "7-000円以下アイテム",
+        "per_row": 4,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "RANKING｜ランキング",
+        "home_featured_products": "ranking-ランキング",
+        "per_row": 5,
+        "rows": 5,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "8db1b099-17a6-46fb-927d-441e01fbca91": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW ITEM ｜新作アイテム",
+        "home_featured_products": "new-item-新商品",
+        "per_row": 5,
+        "rows": 5,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 10
+      }
+    }
+  },
+  "order": [
+    "1669440098ac785b1e",
+    "main",
+    "165629628346055051",
+    "featured-collection",
+    "8db1b099-17a6-46fb-927d-441e01fbca91",
+    "recently-viewed"
+  ]
+}
