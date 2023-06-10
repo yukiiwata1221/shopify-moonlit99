@@ -202,6 +202,101 @@
         "space_around": true
       }
     },
+    "3a3000f9-7b79-4b2a-a443-65cc4a3661bd": {
+      "type": "featured-collection-custom",
+      "blocks": {
+        "1163872d-94a3-4f11-8ffa-635cf66165d4": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-item-新商品",
+            "title": "NEW ITEM"
+          }
+        },
+        "d1050def-2e77-4590-9c8e-545ebbb4dcc7": {
+          "type": "collection",
+          "settings": {
+            "collection": "ranking-ランキング",
+            "title": "RANKING"
+          }
+        },
+        "427b68b2-2179-4495-8b1e-afaeee3ccc75": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops-トップス",
+            "title": "TOPS"
+          }
+        },
+        "659b2c49-ded8-4e2f-a3eb-849e3ecc4958": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms-ボトムス",
+            "title": "BOTTOMS"
+          }
+        },
+        "80c80e95-d9d0-4021-aa89-4a931e5763be": {
+          "type": "collection",
+          "settings": {
+            "collection": "hat-帽子",
+            "title": "HAT"
+          }
+        },
+        "baae5a34-c379-46f7-985e-2108e032f82a": {
+          "type": "collection",
+          "settings": {
+            "collection": "shoes-シューズ",
+            "title": "SHOES"
+          }
+        },
+        "75a19b2d-6894-4100-b176-3546a5e529b1": {
+          "type": "collection",
+          "settings": {
+            "collection": "setup-セットアップ",
+            "title": "SETUP"
+          }
+        },
+        "62cbe5e5-f72d-41d8-b019-a4911bf7b925": {
+          "type": "collection",
+          "settings": {
+            "collection": "ピックアップアイテム",
+            "title": "PICKUP"
+          }
+        },
+        "cf350b98-b35f-4a14-9ca0-e51e67ab5ae5": {
+          "type": "collection",
+          "settings": {
+            "collection": "goods-グッズ",
+            "title": "GOODS"
+          }
+        },
+        "9ecb6238-2979-41cf-89c6-348e88fb3a55": {
+          "type": "collection",
+          "settings": {
+            "collection": "autumn-collection",
+            "title": "2023 S\/S"
+          }
+        }
+      },
+      "block_order": [
+        "1163872d-94a3-4f11-8ffa-635cf66165d4",
+        "d1050def-2e77-4590-9c8e-545ebbb4dcc7",
+        "427b68b2-2179-4495-8b1e-afaeee3ccc75",
+        "659b2c49-ded8-4e2f-a3eb-849e3ecc4958",
+        "80c80e95-d9d0-4021-aa89-4a931e5763be",
+        "baae5a34-c379-46f7-985e-2108e032f82a",
+        "75a19b2d-6894-4100-b176-3546a5e529b1",
+        "62cbe5e5-f72d-41d8-b019-a4911bf7b925",
+        "cf350b98-b35f-4a14-9ca0-e51e67ab5ae5",
+        "9ecb6238-2979-41cf-89c6-348e88fb3a55"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "per_row": 3,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    },
     "1633872735d95b4d0c": {
       "type": "featured-collection",
       "settings": {
@@ -380,6 +475,7 @@
     "slideshow",
     "1648471921d1ee2d3a",
     "6662337a-695f-41cd-b34a-f5a3fcf0febe",
+    "3a3000f9-7b79-4b2a-a443-65cc4a3661bd",
     "16481865815fb2d6f1",
     "823858a8-ebea-47a3-8629-7b096a368867",
     "1abb7ab9-8d5a-4f97-8662-44296b8caf20",
