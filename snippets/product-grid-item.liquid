@@ -12,7 +12,7 @@ Arguments
   endunless
 
  if grid_item_width_custom == blank
-    case per_row
+ case per_row
       when 1
         assign grid_item_width = ''
       when 2
@@ -29,6 +29,7 @@ Arguments
   else
     assign grid_item_width = grid_item_width_custom
   endif
+
 
   assign on_sale = false
   if product.compare_at_price > product.price
